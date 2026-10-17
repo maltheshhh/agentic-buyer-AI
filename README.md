@@ -20,7 +20,7 @@ python backend/app.py
 
 5. Open `http://127.0.0.1:8000/` once the backend is running.
 
-## What is implemented
+## What is implemented in this 
 
 - Service registry cards with pricing, payment addresses, and settlement metadata
 - Daily and monthly spend cap policy enforcement before payment
